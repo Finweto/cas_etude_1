@@ -7,6 +7,7 @@ Vos trouverez dans ce repot :
 - Les données fournies par Kaggle
 - Notre programme d'entraînement dans `cycleGAN.ipynb`
 - Notre programme de Test du générateur `photoToMonet` dans `Test_modeles_1.ipynb`
+- Le programme `Diffusion_model.ipynb` qui contient le code pour le modèle diffusion
 
 # Pour tester le code !
 
@@ -16,3 +17,4 @@ Pour cela, nous vous avons ajouté à un google drive partagé prévenez nous si
 Ouvrez le fichier  `Test_modeles_1.ipynb` et cliquez sur le lien Colab ou téléchargez le puis ouvrez le sur Colab.
 Puis exécutez toutes les cellules !
 
+Pour executer le model de diffusion, ouvrez `Diffusion_model.ipynb` dans colabet executez toutes les cellules.
